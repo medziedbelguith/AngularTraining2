@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "Carry",
+      "email": "alex.carry@gmail.com",
+      "mobile": "9898989898",
+      "salary": "50,000"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "mobile": "1234567890",
+      "salary": "56000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Sashi Yadav",
+      "email": "yshashi30@gmail.com",
+      "password": "123456",
+      "mobile": 98989,
+      "id": 1
+    },
+    {
+      "fullname": "Trevon Dino",
+      "email": "trevon@gmail.com",
+      "password": "123456",
+      "mobile": 32553366552,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
